@@ -1,8 +1,0 @@
---2021-08-25 22:47:27--  https://update.code.visualstudio.com/commit:3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/server-linux-x64/stable
-Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 40.64.128.224
-Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|40.64.128.224|:443... connected.
-HTTP request sent, awaiting response... 302 Found
-Location: https://az764295.vo.msecnd.net/stable/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/vscode-server-linux-x64.tar.gz [following]
---2021-08-25 22:47:32--  https://az764295.vo.msecnd.net/stable/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/vscode-server-linux-x64.tar.gz
-Resolving az764295.vo.msecnd.net (az764295.vo.msecnd.net)... failed: Temporary failure in name resolution.
-wget: unable to resolve host address ‘az764295.vo.msecnd.net’
